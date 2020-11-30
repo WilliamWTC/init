@@ -1,0 +1,3 @@
+cat /var/run/resolv.conf
+
+# DNS (Domain Name System)
