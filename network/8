@@ -1,0 +1,3 @@
+nslookup slash16.org
+
+# This command finds the authoritative DNS servers along with the non-authoritative

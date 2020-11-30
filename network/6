@@ -1,3 +1,5 @@
 cat /var/run/resolv.conf
 
-# DNS (Domain Name System)
+# This path contains the IP address of the used DNS server
+# scutil --dns | grep 'nameserver\[[0-9]*\]'
+# Gives list of configured DNS servers on the system
