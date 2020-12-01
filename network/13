@@ -1,0 +1,5 @@
+# dig -x 10.201.2.1
+
+AUTHORITY SECTION:
+201.10.in-addr.arpa.	43200	IN	SOA	ns01.wethinkcode.co.za. root.localhost. 83 604800 86400 2419200 604800
+

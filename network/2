@@ -1,1 +1,3 @@
-ifconfig | grep broadcast | cut -d " " -f2,6
+ifconfig | grep broadcast | cut -d " " -f6
+
+arp -a

@@ -1,0 +1,5 @@
+traceroute slash16.org
+
+# NAT-1 : 10.203.0.254 (10.203.0.254)  1.667 ms  1.398 ms  1.330 ms
+# Network Address Translation 1 with the above IP address links my 
+# PC to the outside world. Its the starting point for every traceroute.

@@ -1,0 +1,6 @@
+# echo '46.19.122.85 intra.42.fr' >> /etc/hosts
+
+Permission denied: etc/hosts
+
+# The command would have rerouted us to the given IP
+# when we tried to connect to intra.42.fr

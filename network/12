@@ -1,0 +1,1 @@
+ipconfig getpacket en1 | grep "server_identifier"

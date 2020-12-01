@@ -1,4 +1,4 @@
-cat /var/run/resolv.conf
+cat /var/run/resolv.conf | grep "nameserver"
 
 # This path contains the IP address of the used DNS server
 # scutil --dns | grep 'nameserver\[[0-9]*\]'
