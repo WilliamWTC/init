@@ -1,0 +1,4 @@
+sudo cron
+
+# Makes it possible to run tasks
+# following a regular schedule
