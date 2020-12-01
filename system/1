@@ -1,0 +1,3 @@
+cat /etc/debian_version
+
+# You can find your debian_version in this file

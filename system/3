@@ -1,0 +1,4 @@
+cat /etc/hostname
+
+# To make a permanent change to the host name
+# you'd have to change the /etc/hostname file
