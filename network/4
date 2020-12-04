@@ -1,3 +1,7 @@
-netstat -nr | grep default | head -n 1 | awk '{print $2}'
+netstat -nr | grep default | head -n 1 | awk '{print $1,$2}'
 
 # route -n get default | grep "gateway" | sed -E 's/^[[:space:]]+//'
+
+# netstat is a command-line network utility that displays network 
+# connections for Transmission Control Protocol, routing tables, 
+# and a number of network interface and network protocol statistics.

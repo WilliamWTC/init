@@ -1,1 +1,7 @@
 ifconfig -l
+
+# ifconfig is used to configure,
+# or view the configuration of,
+# a network interface.
+
+# https://www.computerhope.com/unix/uifconfi.htm
