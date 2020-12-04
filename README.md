@@ -12,6 +12,8 @@ Introduction subject to System and Network Administration.
 
 4. identifies and displays the default gateway in the routing table.
 
+5. Identify the IP address of the DNS server which answers to slash16.org
+
 ### references
 
 -- [init](https://quizlet.com/355888462/ft_init-flash-cards/)
