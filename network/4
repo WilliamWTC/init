@@ -1,4 +1,4 @@
-netstat -nr | grep default | head -n 1 | awk '{print $1,$2}'
+netstat -nr | grep default | head -n 1 | awk '{print $1,$2,$3,$4,$5,$6}'
 
 # route -n get default | grep "gateway" | sed -E 's/^[[:space:]]+//'
 
