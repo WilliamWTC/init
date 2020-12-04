@@ -12,7 +12,9 @@ Introduction subject to System and Network Administration.
 
 4. identifies and displays the default gateway in the routing table.
 
-5. Identify the IP address of the DNS server which answers to slash16.org
+5. Identify the IP address of the DNS server which answers to slash16.org.
+
+6. Get the complete path of the file that contains the IP address of the DNS server you're using.
 
 ### references
 
