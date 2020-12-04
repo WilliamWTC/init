@@ -1,1 +1,3 @@
-ipconfig getpacket en1 | grep "server_identifier"
+ipconfig getpacket en1 
+
+# http://support.moonpoint.com/os/os-x/dhcp-info.php
