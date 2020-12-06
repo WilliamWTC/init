@@ -87,6 +87,13 @@ makes the link between you (local network) and the outside world.
 
 ## Scripting
 
+1. script which displays only the login, UID and Path of each entry of the
+/etc/passwd file.
+
+2. Script which delete an ACTIVE user on the VM.
+
+3. Write a script of you choice.
+
 ### references
 
 -- [init](https://quizlet.com/355888462/ft_init-flash-cards/)

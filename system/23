@@ -1,2 +1,2 @@
 # use the command $sudo useradd "new user"
-# to connect via ssh
+# to create a new user 
