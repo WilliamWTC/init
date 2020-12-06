@@ -37,6 +37,34 @@ makes the link between you (local network) and the outside world.
 
 ## System
 
+1. file path to find the installed version of your Debian.
+
+2. command to rename your system.
+
+3. file that has to be modified to make name change permanent.
+
+4. command that gives you the time since your system was last booted.
+
+5. command that determines the state of the SSH service.
+
+6. command that reboots the SSH service.
+
+7. Figure out the PID of the SSHD service.
+
+8. file that contains the RSA keys authorized to connect via SSH.
+
+9. command that lets you know who is connected to the System.
+
+10. command that lists the partition tables of drives.
+
+11. displays the available space left and used on the system in a humanly understandable way.
+
+12. displays the exact size of each folders of /var in a humanly understandable way followed by the path of it.
+
+13. command that finds in real time, currently running processes.
+
+14. Run the 'tail -f /var/log/syslog' command in background
+
 ## Scripting
 
 ### references

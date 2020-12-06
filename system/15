@@ -1,1 +1,7 @@
-kill -KILL $(jobs -p)
+sudo kill -9 "PID"
+
+# ps -eaf to get PID for "tail -f /var/log/syslog"
+# https://www.baeldung.com/linux/kill-background-process
+
+
+# or add '&' to previous command to make it a job and "sudo kill -9 "job ID"

@@ -1,1 +1,5 @@
 cat /var/run/sshd.pid
+
+# The Secure Shell Daemon application (SSH daemon or sshd)
+# is the daemon program for ssh. At sshd startup time 
+# its process ID (pid) is written in the /var/run/sshd.pid file.
