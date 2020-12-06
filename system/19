@@ -1,1 +1,4 @@
 systemctl list-units --type service
+
+# equivalent of 'chkconfig --list'
+# https://www.tecmint.com/chkconfig-command-examples/

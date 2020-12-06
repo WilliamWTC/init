@@ -65,6 +65,26 @@ makes the link between you (local network) and the outside world.
 
 14. Run the 'tail -f /var/log/syslog' command in background
 
+15. command that kills the background command’s process.
+
+16. service which makes it possible to run specific tasks following a regular schedule.
+
+17. command that allows you to connect via ssh on the VM.
+
+18. command that kills ssh service.
+
+19. List all services which are started at boot time and name this kind of services.
+
+20. List all existing users on the VM.
+
+21. List all real users on the VM.
+
+22. command that adds a new local user.
+
+23. 
+
+24. command that lists all packages.
+
 ## Scripting
 
 ### references

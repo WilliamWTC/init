@@ -1,1 +1,6 @@
 awk -F':' '{ print $1}' /etc/passwd
+
+# Traditionally, Unix uses the /etc/passwd file
+# to keep track of every user on the system.
+# The /etc/passwd file contains the username, real name,
+# identification information, and basic account information for each user.
