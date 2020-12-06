@@ -1,2 +1,8 @@
-# use the command $sudo useradd "new user"
-# to create a new user 
+# sudo useradd -m "new user"
+# sudo passwd "new user"
+
+# log out/switch user from power button
+# and log into the created user.
+
+
+# https://linuxize.com/post/how-to-create-users-in-linux-using-the-useradd-command/
