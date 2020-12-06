@@ -81,7 +81,7 @@ makes the link between you (local network) and the outside world.
 
 22. command that adds a new local user.
 
-23. 
+23. How connect yourself as new user. (With graphic session and ssh session)
 
 24. command that lists all packages.
 
